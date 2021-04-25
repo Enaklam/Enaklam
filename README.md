@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Enaklam
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Qlick Sense, SQL & Python
+- 👋 Hi, I’m @Enaklam.
+- 👀 I’m interested in Data.
+- 🌱 I’m currently learning Qlick Sense, SQL & Python.
 - 💞️ I’m looking to collaborate on learning.
 - 📫 How to reach me: kane@kanegledhill.com.au
 
